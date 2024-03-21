@@ -36,3 +36,6 @@ Projeye katkıda bulunmak isteyenler için pull request'ler kabul edilir. Büyü
 Samed Akgun - [@LinkedIn](https://www.https://www.linkedin.com/in/abdussamed-akg%C3%BCn-5b68141b9/)
 
 Proje Linki: [https://github.com/samedakgun/Profanity-Detection-with-text](https://github.com/samedakgun/Profanity-Detection-with-text)
+
+## References 
+https://towardsdatascience.com/building-a-better-profanity-detection-library-with-scikit-learn-3638b2f2c4c2 
